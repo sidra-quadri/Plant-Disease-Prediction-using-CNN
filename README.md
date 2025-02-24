@@ -61,3 +61,10 @@ Here is an example of how you can use the system:
 ## Glimpse of the project
 
 
+![alt text](https://github.com/sidra-quadri/Plant-Disease-Prediction-using-CNN/blob/7fdb1a16b6b83a606da11f36494b5d541e8fdadb/Re_img1.png)
+<br><br>
+
+![alt text](https://github.com/sidra-quadri/Plant-Disease-Prediction-using-CNN/blob/7fdb1a16b6b83a606da11f36494b5d541e8fdadb/Re_img2.png)
+<br><br>
+
+![alt text](https://github.com/sidra-quadri/Plant-Disease-Prediction-using-CNN/blob/7fdb1a16b6b83a606da11f36494b5d541e8fdadb/Re_img3.png)
